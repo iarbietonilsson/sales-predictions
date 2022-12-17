@@ -1,1 +1,2 @@
-# sales-predictions
+# Data Science Food Sales Predictions
+Ingrid Arbieto Nelson
